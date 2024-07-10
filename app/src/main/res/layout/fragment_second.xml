@@ -8,8 +8,9 @@
         android:id="@+id/textSec"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Blank_fragment"
+        android:text="Hey Fragment"
         android:padding="10dp"
+        android:layout_gravity="center"
         android:layout_centerHorizontal="true"
 
         />
